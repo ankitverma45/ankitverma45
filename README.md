@@ -7,7 +7,7 @@ Welcome to my GitHub profile.I’m a Web Developer focusing on front-end technol
 
 - 🔭 I’m currently working on Villa Vista Project
 - 🌱 I’m currently learning React native
-- 👯 I’m looking to collaborate on real estate project
+- 👯 I’m looking to collaborate on real estate projects
 - 💬 Ask me about full stack
 - 📫 How to reach me ankitverma73575@gmail.com
 -->
